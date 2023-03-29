@@ -23,6 +23,18 @@ Or compile it by yourself , I made a tutorial downside of this page.
 
 ![2023-03-30 010848](https://user-images.githubusercontent.com/92639080/228687958-f00a6520-9b23-47e3-8974-b22058b91ee2.png)
 
+- Security control: By blocking incoming and outgoing traffic of specific .exe files, users can prevent potentially malicious applications from accessing the internet or receiving data. This can help strengthen the security of their system.
+
+- Network resource management: Users can limit bandwidth usage by blocking traffic for certain non-essential applications. This can be particularly useful in environments where network resources are limited, such as in enterprise networks or low-speed internet connections.
+
+- Privacy protection: Boundman can help protect users' privacy by preventing certain applications from sharing sensitive information with remote servers. Users can block outgoing traffic for applications they suspect of collecting personal data without their consent.
+
+- Troubleshooting: Users can identify and resolve network-related issues by selectively blocking traffic for certain applications. This can facilitate isolating problems and finding solutions to improve network performance.
+
+- Update control: Boundman allows users to control automatic application updates by blocking their access to the internet. This way, users can choose when and how to update their software.
+
+In summary, Boundman offers users precise and customizable control over their application network traffic, which can be valuable for security, resource management, privacy protection, and troubleshooting.
+
 
 ## 🎯 Features
 
