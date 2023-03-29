@@ -51,11 +51,11 @@ Or compile it by yourself , I made a tutorial downside of this page.
 Feel free to adapt this presentation to your needs and add any additional information or screenshots as necessary.
 
 
-# :scroll: License
+## :scroll: License
 
 This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
 
-# :question: Support & Questions
+## :question: Support & Questions
 
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
