@@ -21,7 +21,7 @@ It's a non-signed software because I prefer to save my money for real stuff, so 
 
 Or compile it by yourself , I made a tutorial downside of this page.
 
-![boundman](https://user-images.githubusercontent.com/92639080/228686772-ed823b28-6b40-41b6-9db8-2335e0f2809a.png)
+![2023-03-30 010848](https://user-images.githubusercontent.com/92639080/228687958-f00a6520-9b23-47e3-8974-b22058b91ee2.png)
 
 
 ## 🎯 Features
