@@ -201,21 +201,55 @@ class boundman(QWidget):
         self.setWindowIcon(QIcon(ressource_path("ico/boundman.png")))
 
         #Style of the whole application (css)
+
         self.setStyleSheet("""
-        
+
             QWidget {
                 background-color: #B0F2B4;
                 color: #023047;
                 font-family: "Comic Sans MS";
             }
 
+            
+
             QMessageBox{
                 background-color: #B0F2B4;
                 color: #023047;
                 font-family: "Comic Sans MS";
             }
+
+
+
+
+            QCheckBox::indicator {
+                border: 0.5px solid #023047;
+                border-radius: 50%; 
+                width: 10px;
+                height: 10px;
+            }
+
+            QCheckBox::indicator:checked {
+                background-color: #023047;
+                border-color: #023047;
+            }
+
+            QCheckBox::indicator:hover {
+                border-color: #F2E2BA;
+            }
+
+            QCheckBox::indicator:checked:hover {
+                background-color: #F2E2BA;
+                border-color: #F2E2BA;
+            }
+
+            QCheckBox::indicator:disabled {
+                border-color: #B0F2B4;
+                background-color: #B0F2B4;
+            }
+
+
             
-            
+
             QPushButton {
                 background-color: #F2E2BA;
                 color: #023047;
@@ -230,17 +264,21 @@ class boundman(QWidget):
             
             QPushButton:pressed {
                 background-color: #A0E2A4;
-            
-            
             }
             
-            
+                       
+
+            QMessageBox QHeaderView::section, QMainWindow QHeaderView::section, QDockWidget QHeaderView::section {
+                background-color: #B0F2B4;
+                color: #023047;
+            }
             """)
         
-        #Our different widgets
-        self.check_in = QCheckBox('Inside')
 
-        self.check_out = QCheckBox('Outside')
+        #Our different widgets
+        self.check_in = QCheckBox('Block INBOUND traffic')
+
+        self.check_out = QCheckBox('Block OUTBOUND traffic')
 
         self.btn_selecter = QPushButton('Select Folder')
         self.btn_selecter.clicked.connect(self.select_folder)
