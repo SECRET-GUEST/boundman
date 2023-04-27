@@ -36,6 +36,8 @@ Or compile it by yourself , I made a tutorial downside of this page.
 In summary, Boundman offers users precise and customizable control over their application network traffic, which can be valuable for security, resource management, privacy protection, and troubleshooting.
 
 
+[![Download boundman](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/boundman/files/latest/download)
+
 BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
 
 - A fast file remover (delete all files who have the same name in a selected folder including subfolder) : https://github.com/SECRET-GUEST/decimator
@@ -44,7 +46,6 @@ BTW, if you are searching for more desk tools to opmtimize your productivity you
 
 And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
 
-[![Download boundman](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/boundman/files/latest/download)
 
 ## 🎯 Features
 
