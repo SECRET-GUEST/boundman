@@ -42,7 +42,7 @@ BTW, if you are searching for more desk tools to opmtimize your productivity you
 - A notepad opening all text file and showing what's hidden in : https://github.com/SECRET-GUEST/ecrire
 - A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
 
-And there is more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
+And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
 
 [![Download boundman](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/boundman/files/latest/download)
 
