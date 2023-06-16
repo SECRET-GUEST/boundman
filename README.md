@@ -38,13 +38,6 @@ In summary, Boundman offers users precise and customizable control over their ap
 
 [![Download boundman](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/boundman/files/latest/download)
 
-BTW, if you are searching for more desk tools to opmtimize your productivity you can also check those pages :
-
-- A fast file remover (delete all files who have the same name in a selected folder including subfolder) : https://github.com/SECRET-GUEST/decimator
-- A notepad opening all text file and showing what's hidden in : https://github.com/SECRET-GUEST/ecrire
-- A powerful autoclicker : https://github.com/SECRET-GUEST/autoclicker
-
-And there are more in tiny script (without graphical user interface but easy to use ) : https://github.com/SECRET-GUEST/tiny-scripts
 
 
 ## 🎯 Features
@@ -83,6 +76,16 @@ This repository is released under the [MIT License](LICENSE). Please see the `LI
 If you have any questions or need support, please feel free to open an issue or join my twitter.
 
 
+# :gem: Recommendations  
+
+Should you require more desktop tools to optimize your productivity, the following pages might be of interest:
+
+- [Decimator](https://github.com/SECRET-GUEST/decimator) : A speedy file remover tool (deletes all files with the same name in a selected folder, including subfolders).
+- [Ecrire](https://github.com/SECRET-GUEST/ecrire) : A notepad that opens all text files and reveals hidden content.
+- [AutoClicker](https://github.com/SECRET-GUEST/autoclicker) : A powerful autoclicker tool.
+
+More handy scripts, sans GUI but user-friendly, can be found here:
+- [Tiny Scripts](https://github.com/SECRET-GUEST/tiny-scripts)
 
 
 
