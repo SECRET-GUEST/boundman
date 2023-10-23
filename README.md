@@ -16,6 +16,7 @@ Boundman is an advanced, user-friendly, and sleek application designed to take c
 With its intuitive PyQt5 graphical interface and robust PowerShell scripts, Boundman provides seamless integration with the Windows Firewall for a powerful network management experience.
 
 In release section you can download an executable ready to launch (portable) made for windows with pyinstaller, or just there :
+
 [![Download boundman](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/boundman/files/latest/download)
 
 It's a non-signed software because I prefer to save my money for real stuff, so it will be detected as a malware from bad anti-virus, you can still test on sandbox here  : https://www.virustotal.com/gui/home/upload 
