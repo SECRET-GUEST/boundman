@@ -38,10 +38,6 @@ Or compile it by yourself , I made a tutorial downside of this page.
 In summary, Boundman offers users precise and customizable control over their application network traffic, which can be valuable for security, resource management, privacy protection, and troubleshooting.
 
 
-[![Download boundman](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/boundman/files/latest/download)
-
-
-
 ## 🎯 Features
 
 - **Intuitive and modern PyQt5 graphical interface** for effortless navigation
